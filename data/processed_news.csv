@@ -1,0 +1,96 @@
+source,title,date,sentiment,event_type,impact_score
+BusinessLine,Gujarat prioritises commercial LPG supply in areas without PNG network,2026-03-16T08:24:06Z,0.0,NORMAL,0.0
+Israelnationalnews.com,Supreme Court rules: Shin Bet Chief's brother to be released to house arrest,2026-03-16T08:24:02Z,-0.05,NORMAL,0.05
+Al Jazeera English,How closing the Strait of Hormuz raises your grocery bill,2026-03-16T08:22:54Z,0.0,NORMAL,0.0
+Abcnews.com,WATCH: Bear breaks into California kitchen,2026-03-16T08:22:10Z,0.0,NORMAL,0.0
+CNBC,"UAE’s Fujairah oil trading hub targeted by a drone attack, causing large fire",2026-03-16T08:21:17Z,0.21428571428571427,WAR,0.8142857142857143
+BusinessLine,Adani Wind Joins Global Top 15 Turbine Manufacturers in 2025,2026-03-16T08:21:16Z,0.25,NORMAL,0.25
+Lifesciencesworld.com,What snake kills more people each year?,2026-03-16T08:21:09Z,0.5,NORMAL,0.5
+Abcnews.com,WATCH: Fashion and fun at the 2026 Oscars,2026-03-16T08:20:44Z,0.3,NORMAL,0.3
+The Times of India,"""Operational opportunity came only after PM Modi left"": Israeli Envoy clarifies strike timing",2026-03-16T08:20:19Z,0.0,DISRUPTION,0.5
+GlobeNewswire,Niu Technologies Announces Unaudited Fourth Quarter and Full Year 2025 Financial Results,2026-03-16T08:20:00Z,0.11666666666666665,NORMAL,0.11666666666666665
+CNBC,"Oil’s war-driven volatility pulls in record retail money, fueling 'meme-style' trading",2026-03-16T08:18:44Z,0.0,WAR,0.6
+Abcnews.com,"WATCH: 2026 Oscars' big winners, historic moments",2026-03-16T08:18:05Z,0.0,NORMAL,0.0
+POLITICO.eu,Trump warns NATO (again) of ‘very bad future’ if allies don’t secure Strait of Hormuz,2026-03-16T08:17:53Z,-0.16999999999999993,WAR,0.7699999999999999
+Defenseworld.net,"Ameriprise Financial Inc. Acquires 592,575 Shares of CVS Health Corporation $CVS",2026-03-16T08:16:57Z,0.0,NORMAL,0.0
+Financial Post,EU Pushes to Shift Naval Mission to Protect Strait of Hormuz,2026-03-16T08:15:36Z,0.0,NORMAL,0.0
+Livemint,Citi sees no surge in corporate credit demand despite oil shock amid West Asia conflict,2026-03-16T08:14:03Z,0.0,WAR,0.6
+The Local Germany,Germany says US was 'wrong' to ease Russia oil sanctions,2026-03-16T08:13:48Z,-0.5,OIL_EVENT,0.9
+TheJournal.ie,The 8 at 8: Monday,2026-03-16T08:13:31Z,0.0,NORMAL,0.0
+Rigzone,Iran Denies Seeking Truce as Dubai Oil Port Damaged,2026-03-16T08:12:15Z,0.0,OIL_EVENT,0.4
+Business Insider,Robot dogs are protecting data centers. Operators are seeing payoffs.,2026-03-16T08:11:01Z,0.0,NORMAL,0.0
+CNA,China 'maintaining communication' with US over Trump visit,2026-03-16T08:11:00Z,0.0,NORMAL,0.0
+Financial Post,Dubai Stocks Fall Into Bear Market as Iran War Enters Third Week,2026-03-16T08:10:30Z,0.0,WAR,0.6
+Theaviationist.com,"Epic Fury Enters Third Week as More B-52s, F-35s and Marines Deploy",2026-03-16T08:10:29Z,0.19999999999999998,NORMAL,0.19999999999999998
+Digitimes,"Sony CIS yield issue raises Apple supply risks, opens door for Samsung",2026-03-16T08:10:14Z,0.0,NORMAL,0.0
+Footballmuse.com,Transfer rumour roundup: Man United reignite €30m Ederson move; Real Madrid plot summer splurge,2026-03-16T08:10:00Z,0.2,NORMAL,0.2
+HuffPost,"Reuters Investigation Claims To Reveal Who Banksy Really Is, And How He Hid In Plain Sight",2026-03-16T08:09:37Z,-0.007142857142857131,NORMAL,0.007142857142857131
+The Irish Times,Initiative may be slipping away from US and Israel as Middle East crisis deepens,2026-03-16T08:08:32Z,-0.05,NORMAL,0.05
+Landezine.com,Chiara Geroldi: Moved Earth: Designing Landscapes with Discarded Fill,2026-03-16T08:08:11Z,0.0,NORMAL,0.0
+The Times of India,2008 global crash to 2020 COVID: How Nifty 50 plunged up to 59% in crises but rebounded,2026-03-16T08:07:50Z,0.0,NORMAL,0.0
+The Times of India,India's sugar production up 10.4% so far this season,2026-03-16T08:06:18Z,0.1,NORMAL,0.1
+Financial Post,BYD Shares Surge the Most in 13 Months on Overseas Sales Orders,2026-03-16T08:05:46Z,0.5,NORMAL,0.5
+The Times of India,"India's trade deficit narrows on month to $27.1 billion in Feb; Tariff uncertainty, Iran conflict loom",2026-03-16T08:05:41Z,0.0,WAR,0.6
+Financial Post,Iran Denies it Wants Truce as Dubai Airport and Oil Port Damaged,2026-03-16T08:05:28Z,0.2,OIL_EVENT,0.6000000000000001
+Lifesciencesworld.com,Do foxes only mate once a year?,2026-03-16T08:04:36Z,0.0,NORMAL,0.0
+The Times of India,"Strike forces fresh halt to oil loading at UAE’s Fujairah port, underscoring risks to global supplies",2026-03-16T08:03:04Z,0.15,DISRUPTION,0.65
+pymnts.com,Veriff Warns Deepfakes Are Distracting Firms From the Real Identity Problem,2026-03-16T08:02:27Z,0.2,WAR,0.8
+Science Daily,Scientists unlock a powerful new way to turn sunlight into fuel,2026-03-16T08:01:39Z,0.21818181818181817,NORMAL,0.21818181818181817
+Al Jazeera English,Iran war: What is happening on day 17 of US-Israel attacks?,2026-03-16T08:01:26Z,0.0,WAR,0.6
+War on the Rocks,The Danger of Vibe Patriotism in Defense Tech,2026-03-16T08:00:58Z,0.0,NORMAL,0.0
+Openculture.com,"How to Read Books That Challenge Your Mind: Advice from Robert Greene, Author of The 48 Laws of Power",2026-03-16T08:00:41Z,0.0,NORMAL,0.0
+Financial Post,UAE’s Fujairah Suspends Oil Loadings After Port Hit Again,2026-03-16T08:00:23Z,0.0,OIL_EVENT,0.4
+GlobeNewswire,Stolt-Nielsen and NYK Line form strategic joint venture in Avenir LNG,2026-03-16T08:00:00Z,0.0,NORMAL,0.0
+Grist,4 ways Trump is sabotaging climate action around the world,2026-03-16T08:00:00Z,0.1,NORMAL,0.1
+Pythonbytes.fm,Python Bytes: #473 A clean room rewrite?,2026-03-16T08:00:00Z,0.3666666666666667,NORMAL,0.3666666666666667
+Rocknrollbride.com,Fear Comes the Bride: How Much of Ourselves Do We Lose When We Gain a Spouse?,2026-03-16T08:00:00Z,0.2,NORMAL,0.2
+Blog.google,Introducing AI Works for Europe,2026-03-16T08:00:00Z,0.0,NORMAL,0.0
+Fortune,From foundations to fluency: why upskilling is the key to Europe’s AI future,2026-03-16T08:00:00Z,0.0,NORMAL,0.0
+OilPrice.com,EU Ministers Race to Shield Industry From an Escalating Energy Shock,2026-03-16T08:00:00Z,0.0,OIL_EVENT,0.4
+ComputerWeekly.com,UK Atomic Energy Authority readies fusion simulation AI supercomputer,2026-03-16T08:00:00Z,0.0,OIL_EVENT,0.4
+Android Authority,An iPhone is apparently Washington’s most important smartphone,2026-03-16T07:58:20Z,0.3166666666666667,NORMAL,0.3166666666666667
+CNBC,Op-ed: Why my interview with Russia's ambassador to the U.K. reflected a stark global picture,2026-03-16T07:57:59Z,-0.1,NORMAL,0.1
+Javacodegeeks.com,JEP 500 and Final Field Integrity: How Java Is Closing a Reflection Loophole That’s Been Open Since JDK 1.0,2026-03-16T07:57:00Z,0.0,NORMAL,0.0
+The Irish Times,"What makes Jessie Buckley, Ireland’s newly crowned Oscar winner, such a notable actor?",2026-03-16T07:57:00Z,0.21212121212121213,NORMAL,0.21212121212121213
+BusinessLine,"Markets swing as Citi, Nomura trim Nifty 50 targets amid West Asia conflict; UltraTech, Grasim, HDFC Bank & Hindalco lead Nifty 50 gainers",2026-03-16T07:55:58Z,0.0,WAR,0.6
+POLITICO.eu,"O’Brien, Kimmel jab at Trump at Oscars",2026-03-16T07:55:03Z,0.0,NORMAL,0.0
+RT,Zelensky seeking to ‘punish’ Slovakia for peace aspirations – Fico,2026-03-16T07:53:54Z,0.0,NORMAL,0.0
+Lifesciencesworld.com,How do you grow algae in a jar?,2026-03-16T07:53:10Z,0.0,NORMAL,0.0
+Digitimes,AI boom fuels cargo surge at Taoyuan Airport's free trade zone,2026-03-16T07:52:59Z,0.4,NORMAL,0.4
+Al Jazeera English,Drone strike disrupts Dubai flights as Iran continues Gulf attacks,2026-03-16T07:52:59Z,0.0,WAR,0.6
+The Times of India,From rough to radiance: Surat’s diamond industry that powers millions,2026-03-16T07:52:35Z,-0.1,NORMAL,0.1
+Techpowerup.com,"Memory Makers Expect Shortages to End in Late 2028, Could Pause Expansion Plans",2026-03-16T07:47:16Z,-0.3,NORMAL,0.3
+BusinessLine,Data Patterns bags ₹288 crore order from IMD,2026-03-16T07:46:56Z,0.0,NORMAL,0.0
+The Times of India,Blasts rock Kyiv in rare daytime Russian attack,2026-03-16T07:46:54Z,0.15,WAR,0.75
+Financial Post,Philippines Says Nations Must Honor Oil Pacts Amid Export Curbs,2026-03-16T07:44:57Z,0.0,OIL_EVENT,0.4
+The Irish Times,Japan's Nikkei falls for third day on Iran stagflation concerns,2026-03-16T07:44:35Z,0.0,NORMAL,0.0
+RTE,China's JD.com launches in UK with new Joybuy platform,2026-03-16T07:44:12Z,0.13636363636363635,NORMAL,0.13636363636363635
+Islandfm.com,"Oscars 2026: Bridesmaids, Baby Yoda and ballet bites back - the bits of the Oscars you might have missed",2026-03-16T07:43:58Z,0.0,NORMAL,0.0
+Naftemporiki.gr,Athens Stock Market: The factors determining the ‘price’ of war,2026-03-16T07:43:41Z,0.0,WAR,0.6
+Greenbone.net,GreenboneOS: Peacocks and crows in IT security,2026-03-16T07:43:33Z,0.0,NORMAL,0.0
+The Times of India,"Gudi Padwa 2026 Date: Is it on March 19 or March 20? Check correct date, tithi and significance of Marathi New Year",2026-03-16T07:42:37Z,0.13636363636363635,NORMAL,0.13636363636363635
+Israelnationalnews.com,Communications Ministry discovers: Some kosher phones don't receive IDF alerts,2026-03-16T07:42:00Z,0.0,NORMAL,0.0
+BusinessLine,Omar Abdullah opens Asia’s largest tulip garden in Srinagar for visitors,2026-03-16T07:41:20Z,0.0,NORMAL,0.0
+The Times of India,"China and US in communication on Trump visit, Chinese foreign ministry says",2026-03-16T07:40:34Z,-0.0625,NORMAL,0.0625
+Lifesciencesworld.com,What happens to birds when they die?,2026-03-16T07:40:00Z,0.0,NORMAL,0.0
+The Irish Times,Oil gains in choppy session as investors eye Kharg attack impact,2026-03-16T07:38:58Z,-0.2,WAR,0.8
+Japan Today,Japan begins releasing oil reserves,2026-03-16T07:38:38Z,0.0,OIL_EVENT,0.4
+Japan Today,"Japan not yet planning Hormuz escort mission, PM Takaichi says",2026-03-16T07:38:09Z,0.0,NORMAL,0.0
+Japan Today,Philippines rejects Beijing's claim to sovereignty over entire South China Sea,2026-03-16T07:37:25Z,0.0,NORMAL,0.0
+BusinessLine,"Silver futures drop ₹4,232 to ₹2.55 lakh/kg on weak demand, strong dollar",2026-03-16T07:37:11Z,0.029166666666666674,NORMAL,0.029166666666666674
+Pypi.org,atlast-ecp 0.3.0,2026-03-16T07:36:46Z,0.0,NORMAL,0.0
+The Punch,China ‘maintaining communication’ with US over Trump visit,2026-03-16T07:36:26Z,0.0,NORMAL,0.0
+GlobeNewswire,GN Store Nord A/S enters into agreement to sell its Hearing business to Amplifon S.p.A. for DKK 17.0 billion,2026-03-16T07:35:00Z,0.0,NORMAL,0.0
+BusinessLine,West Asia conflict prompts Citi and Nomura to cut India's Nifty 50 annual targets,2026-03-16T07:34:42Z,0.0,WAR,0.6
+The Irish Times,Trump ‘demanding’ other countries help reopen Strait of Hormuz; ‘drone-related incident’ at Dubai airport,2026-03-16T07:33:31Z,-0.125,NORMAL,0.125
+The Times of India,Global Markets | Japan's Nikkei falls for third day as Iran crisis fuels stagflation concerns,2026-03-16T07:33:24Z,0.0,NORMAL,0.0
+Madshrimps.be,Fresh Look at Hello Sunshine Unveiled at Future Games Show Spring Showcase,2026-03-16T07:33:00Z,0.15,NORMAL,0.15
+Slashdot.org,"‘We never asked for a ceasefire,’ says Iran’s foreign minister, as war keeps raging - NPR",2026-03-16T07:32:40Z,-0.125,WAR,0.725
+The Times of India,Gas supply crunch puts Kolkata restaurants in a tight spot,2026-03-16T07:32:22Z,-0.17857142857142858,OIL_EVENT,0.5785714285714286
+Yahoo Entertainment,Donald Trump Stuns With 'Maybe We Shouldn't Even Be There' Admission About Iran War,2026-03-16T07:31:54Z,0.0,WAR,0.6
+HuffPost,Trump Stuns With Bombshell Admission About His Iran War,2026-03-16T07:31:54Z,0.0,WAR,0.6
+The Times of India,PhonePe pauses much-awaited IPO process amid raging Iran war,2026-03-16T07:30:51Z,0.0,WAR,0.6
+The Times of India,PhonePe hits pause on IPO as Iran war roils primary market sentiment,2026-03-16T07:30:51Z,0.4,WAR,1.0
+The Local Germany,Today in Germany: A roundup of the latest news on Monday,2026-03-16T07:30:50Z,0.5,NORMAL,0.5
+War on the Rocks,Don’t Count Launches: Misreading Iran’s Drone Capacity,2026-03-16T07:30:43Z,0.0,NORMAL,0.0
+RTE,Oil up as focus returns to threats on MidEast facilities,2026-03-16T07:30:24Z,0.0,OIL_EVENT,0.4
